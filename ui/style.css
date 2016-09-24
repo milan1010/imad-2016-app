@@ -4,6 +4,12 @@ body {
     margin-top: 75px;
 }
 
+.content{
+
+    width: 320px;
+    border: 5px solid gray;
+}
+
 
 .container{
     top:400px;
