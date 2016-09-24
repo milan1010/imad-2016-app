@@ -26,6 +26,9 @@ body {
 
 .img-medium {
     height: 200px;
+    position:absolute;
+    top: 100px;
+    left:100px;
 }
 
 .button1{
