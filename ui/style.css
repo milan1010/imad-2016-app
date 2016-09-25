@@ -37,12 +37,6 @@ body {
 }
 
 
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
 
 
 .button1{
@@ -52,6 +46,7 @@ body {
     border: 2px solid green;
     padding: 30px 30px;
     float:left;
+      font-style:italic;
 }
 
 .button1:hover {
@@ -67,6 +62,7 @@ body {
     border: 2px solid blue;
     padding: 30px 30px;
     float:left;
+      font-style:italic;
 }
 
 .button2:hover {
@@ -82,6 +78,7 @@ body {
     border: 2px solid red;
     padding: 30px 30px;
     float:left;
+      font-style:italic;
 }
 
 .button3:hover {
@@ -97,6 +94,7 @@ body {
     border: 2px solid black;
     padding: 30px 30px;
     float:left;
+      font-style:italic;
 }
 
 .button4:hover {
@@ -112,6 +110,7 @@ body {
     border: 2px solid violet;
     padding: 30px 30px;
     float:left;
+      font-style:italic;
 }
 
 .button5:hover {
